@@ -33,5 +33,5 @@ The system implements a simple interactive menu loop inside the terminal allowin
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/smart-device-management-system.git](https://github.com/YOUR_USERNAME/smart-device-management-system.git)
+   git clone [https://github.com/nicholasowusu608/smart-device-management-system.git](https://github.com/nicholasowusu608/smart-device-management-system.git)
    cd smart-device-management-system
