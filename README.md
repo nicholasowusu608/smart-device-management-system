@@ -3,7 +3,7 @@
 ## Introduction
 The **Smart Device Management System** is an object-oriented Python application designed to manage smart home networks. The core purpose of this system is to handle common device operations while accounting for unique device features under strict object-oriented programming (OOP) constraints like encapsulation and inheritance.
 
-This project was built as part of the **EL 162 / 234 Object Oriented Programming** course under the supervision of Dr. Matthew Cobbinah.
+
 
 ---
 
